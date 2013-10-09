@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="audio.c" open="1" top="0" tabpos="8">
+		<Cursor position="1322" topLine="3" />
+	</File>
+	<File name="audio.h" open="0" top="0" tabpos="17">
+		<Cursor position="22" topLine="0" />
+	</File>
+	<File name="char.c" open="1" top="0" tabpos="9">
+		<Cursor position="636" topLine="36" />
+	</File>
+	<File name="char.h" open="1" top="0" tabpos="13">
+		<Cursor position="533" topLine="0" />
+	</File>
+	<File name="credits.c" open="1" top="0" tabpos="10">
+		<Cursor position="1579" topLine="11" />
+	</File>
+	<File name="credits.h" open="0" top="0" tabpos="3">
+		<Cursor position="2" topLine="0" />
+	</File>
+	<File name="event.c" open="1" top="1" tabpos="2">
+		<Cursor position="5319" topLine="190" />
+	</File>
+	<File name="event.h" open="1" top="0" tabpos="3">
+		<Cursor position="262" topLine="0" />
+	</File>
+	<File name="game.c" open="1" top="0" tabpos="1">
+		<Cursor position="2548" topLine="84" />
+	</File>
+	<File name="game.h" open="0" top="0" tabpos="5">
+		<Cursor position="225" topLine="0" />
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="11">
+		<Cursor position="487" topLine="18" />
+	</File>
+	<File name="map.c" open="1" top="0" tabpos="6">
+		<Cursor position="951" topLine="110" />
+	</File>
+	<File name="map.h" open="1" top="0" tabpos="7">
+		<Cursor position="573" topLine="0" />
+	</File>
+	<File name="object.c" open="1" top="0" tabpos="12">
+		<Cursor position="696" topLine="0" />
+	</File>
+	<File name="object.h" open="0" top="0" tabpos="13">
+		<Cursor position="404" topLine="0" />
+	</File>
+	<File name="objectevent.c" open="1" top="0" tabpos="4">
+		<Cursor position="1169" topLine="0" />
+	</File>
+	<File name="objectevent.h" open="1" top="0" tabpos="5">
+		<Cursor position="447" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
